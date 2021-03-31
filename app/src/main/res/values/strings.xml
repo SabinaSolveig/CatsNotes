@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">CatsNotes</string>
+    <string name="app_name">My Cats Notes</string>
+    <string name="button_1">Заметка 1</string>
+    <string name="button_2">Заметка 2</string>
+    <string name="button_3">Заметка 3</string>
+    <string name="note_details">Описание заметки</string>
+    <string-array name="notes">
+        <item>Просто заметка</item>
+        <item>Покормить Барсика</item>
+        <item>Почесать пузико Мурзику</item>
+        <item>Записать Маркиза на вакцинацию</item>
+    </string-array>
 </resources>
